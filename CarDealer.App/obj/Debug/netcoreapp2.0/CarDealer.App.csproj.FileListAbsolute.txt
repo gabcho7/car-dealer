@@ -1,0 +1,11 @@
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.App.deps.json
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.App.runtimeconfig.json
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.App.runtimeconfig.dev.json
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.App.dll
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.App.pdb
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.csprojResolveAssemblyReference.cache
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.AssemblyInfoInputs.cache
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.AssemblyInfo.cs
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.dll
+C:\Users\Notebook\Desktop\CarDealer\CarDealer\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.pdb
